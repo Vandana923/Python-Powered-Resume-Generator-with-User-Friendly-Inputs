@@ -14,7 +14,7 @@ User-Friendly Input Collection: The application gathers essential details from u
 
 6 .Scalable and Modular Code: The Python script is modular and easily extendable, making it possible to add new features or update the resume template with minimal changes to the core code.
 
-Technologies Used
+Technologies Used :
 Python: The core programming language used to develop the application.
 HTML & CSS: These technologies are used to create a professional, visually appealing layout for the resume.
 Libraries: The project uses Python’s built-in libraries for handling user input and generating HTML content, with no external dependencies required.
