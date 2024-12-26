@@ -1,5 +1,5 @@
 # Automated Resume Generator: A Python-Powered Solution for Dynamic and Personalized CV Creation
-Project Overview
+Project Overview :
 The Automated Resume Generator is a Python-based application designed to streamline the process of creating professional, personalized resumes. This tool allows users to input key details such as personal information, education, skills, projects, work experience, and certifications. It then dynamically generates an HTML-formatted resume, offering a clean and professional layout tailored to the user’s input. The project aims to simplify resume creation, saving users valuable time while ensuring their resumes are well-structured and visually appealing.
 
 Key Features
