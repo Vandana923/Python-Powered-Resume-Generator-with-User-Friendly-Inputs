@@ -4,15 +4,10 @@ The Automated Resume Generator is a Python-based application designed to streaml
 
 Key Features
 1 .User-Friendly Input Collection: The application gathers essential details from users in an easy-to-follow format, including personal information (name, job role, contact details), academic background (college name, branch, percentage), skills, projects, work experience, and certifications.
-
 2. Dynamic HTML Resume Generation: Based on the collected data, the system automatically creates an HTML-formatted resume, ensuring a professional design with a clean layout. Users receive a fully customized resume that they can use for job applications.
-
 3. Customizable Sections: The system allows users to input multiple projects, certifications, and other key information, making the resume highly personalized. This ensures the resume reflects the user’s unique qualifications and experiences.
-
 4. Interactive and Responsive Design: The generated resume features a mobile-responsive design, ensuring it is easy to read on both desktop and mobile devices. The clean and modern layout enhances readability and overall presentation.
-
 5. Efficiency and Time-Saving: By automating the resume creation process, the tool eliminates the need for manual formatting and ensures a consistent, high-quality result every time. This saves users significant time and effort.
-
 6 .Scalable and Modular Code: The Python script is modular and easily extendable, making it possible to add new features or update the resume template with minimal changes to the core code.
 
 Technologies Used :
